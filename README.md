@@ -1,4 +1,5 @@
 ## 🍚 What should I cook today? 
+
 https://www.miricanvas.com/v/12y873g
 
 ![001](https://github.com/lhr0055/-_-/assets/129835424/6d2cc3ba-42b7-49df-9c25-2548dbc1c17e)
@@ -6,6 +7,7 @@ https://www.miricanvas.com/v/12y873g
 </br>
 
 ## 🍴 앱 소개
+저의 첫 프로젝트이자 앱 만들기입니다. 
 오늘 뭐 해먹지? 라는 고민 한 번쯤 해보시지 않으셨나요?
 배달음식은 질렸고, 오늘은 어떤 걸 해먹어야 할지
 레시피를 봐도 뭘 먹을지 모르겠고, 먹고 싶은게 있어도 레시피 찾기가 귀찮고 
